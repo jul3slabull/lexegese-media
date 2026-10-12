@@ -1,0 +1,62 @@
+{
+  "theme": "L'Exégèse Juridique : Le verrou de l'Article 13 de la DDHC",
+  "carrousel": {
+    "titre_global": "L'Exégèse Juridique : Le verrou de l'Article 13 de la DDHC",
+    "slides": [
+      {
+        "numero": 1,
+        "surtitre": "LE BLOC CONSTITUTIONNEL",
+        "titre": "L'exonération par l'âge est-elle juridiquement légale ?",
+        "chiffre_cle": "Art. 13",
+        "corps_texte": "En France, la volonté des partis politiques se heurte aux normes juridiques supérieures. La Déclaration des Droits de l'Homme et du Citoyen de 1789 pose un principe d'égalité stricte devant l'impôt.",
+        "citation_exacte": "Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable.",
+        "source_exacte": "Article 13 de la Déclaration des Droits de 1789"
+      },
+      {
+        "numero": 2,
+        "surtitre": "ARTICLE 13 DDHC 1789",
+        "titre": "L'égalité des facultés contributives",
+        "chiffre_cle": "1789",
+        "corps_texte": "L'impôt doit être également réparti entre tous les citoyens, en raison de leurs facultés. Deux salariés au même revenu doivent légalement participer proportionnellement à l'effort républicain.",
+        "citation_exacte": "Elle doit être également répartie entre tous les citoyens, en raison de leurs facultés.",
+        "source_exacte": "Constitution de la République Française"
+      },
+      {
+        "numero": 3,
+        "surtitre": "JURISPRUDENCE CONSEIL CONSTITUTIONNEL",
+        "titre": "La jurisprudence constante 99-422 DC",
+        "chiffre_cle": "Décision 99-422",
+        "corps_texte": "Dans sa décision historique du 29 décembre 1999, le Conseil constitutionnel a rappelé que le législateur ne peut créer de rupture d'égalité fiscale qu'en présence de motifs d'intérêt général objectifs et rationnels.",
+        "citation_exacte": "Rupture caractérisée d'égalité devant les charges publiques.",
+        "source_exacte": "Conseil constitutionnel, Décision n° 99-422 DC"
+      },
+      {
+        "numero": 4,
+        "surtitre": "LE CAS DES DEUX VOISINS",
+        "titre": "L'inégalité à salaire égal : 29 ans contre 31 ans",
+        "chiffre_cle": "0 € vs 2 000 €",
+        "corps_texte": "Deux ingénieurs gagnent le même salaire de 3 000 euros net : l'un a 29 ans et paierait 0 euro, l'autre a 31 ans et paierait 2 000 euros. Sans modification de la Constitution, cette différence d'impôt est censurée.",
+        "citation_exacte": "L'âge seul ne saurait constituer un critère rationnel de différenciation fiscale.",
+        "source_exacte": "Doctrine constitutionnelle"
+      },
+      {
+        "numero": 5,
+        "surtitre": "ISSUES JURIDIQUES",
+        "titre": "Révision constitutionnelle ou crédit d'impôt ?",
+        "chiffre_cle": "2 Voies",
+        "corps_texte": "Deux solutions existent : soit une révision constitutionnelle par référendum, soit la requalification de la mesure sous forme de prime ou de crédit d'impôt à l'insertion professionnelle.",
+        "citation_exacte": "Le Conseil constitutionnel veille à l'équilibre entre volonté politique et respect des principes fondamentaux.",
+        "source_exacte": "L'Exégèse Juridique"
+      }
+    ]
+  },
+  "story": {
+    "date_label": "MERCREDI",
+    "badge": "L'EXÉGÈSE JURIDIQUE",
+    "chiffre_geant": "Art. 13",
+    "unite_ou_complement": "de la Déclaration de 1789",
+    "question_centrale": "L'exonération fiscale selon l'âge est-elle contraire à la Constitution ?",
+    "decryptage": "L'Article 13 de la DDHC impose que l'impôt soit réparti selon les facultés contributives, pas selon la date de naissance. Le Conseil constitutionnel risque de censurer toute mesure créant une inégalité à salaire identique.",
+    "source_officielle": "DDHC 1789 & Conseil Constitutionnel (99-422 DC)"
+  }
+}

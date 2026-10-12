@@ -1,0 +1,62 @@
+{
+  "theme": "La fiscalité des jeunes de moins de 30 ans : exonération ou allocation d'autonomie ?",
+  "carrousel": {
+    "titre_global": "Fiscalité des moins de 30 ans : analyse comparée des modèles",
+    "slides": [
+      {
+        "numero": 1,
+        "surtitre": "STATISTIQUES FISCALES DGFIP",
+        "titre": "Une majorité de jeunes déjà non imposables",
+        "chiffre_cle": "62 %",
+        "corps_texte": "Selon l'administration fiscale, 62 % des foyers fiscaux dont le déclarant a moins de 30 ans ne s'acquittent d'aucun impôt sur le revenu. En parallèle, le taux de pauvreté des 18-24 ans atteint entre 18,5 % et 20 %.",
+        "citation_exacte": "62 % des foyers fiscaux dont le déclarant principal a moins de 30 ans ne paient aucun impôt sur le revenu",
+        "source_exacte": "DGFiP, Statistiques fiscales / Insee Première"
+      },
+      {
+        "numero": 2,
+        "surtitre": "ÉVALUATION DIRECTION GÉNÉRALE DU TRÉSOR",
+        "titre": "L'impact budgétaire d'une exonération totale",
+        "chiffre_cle": "2,5 à 3,5 Md€",
+        "corps_texte": "L'exonération totale d'impôt sur le revenu pour les moins de 30 ans représente une perte directe de 2,5 à 3,5 milliards d'euros par an pour l'État. En incluant l'impôt sur les sociétés pour les créateurs d'entreprise, la perte atteint 4,5 à 5,2 milliards d'euros.",
+        "citation_exacte": "Les 30 % des jeunes aux revenus les plus élevés captent plus de 80 % du gain financier de la mesure.",
+        "source_exacte": "Direction Générale du Trésor / Sénat"
+      },
+      {
+        "numero": 3,
+        "surtitre": "ÉVALUATION IPP ET OFCE",
+        "titre": "Le coût d'une garantie d'autonomie financière",
+        "chiffre_cle": "12 à 15 Md€",
+        "corps_texte": "Le projet d'allocation d'autonomie prévoit un versement mensuel de 1 159 euros, calculé à partir du seuil de pauvreté monétaire. Les projections budgétaires chiffrent cette mesure entre 12 et 15 milliards d'euros par an selon le périmètre retenu.",
+        "citation_exacte": "1 159 € par mois (calibré sur le seuil de pauvreté Insee à 60 % du revenu médian)",
+        "source_exacte": "Institut des Politiques Publiques (IPP) / OFCE"
+      },
+      {
+        "numero": 4,
+        "surtitre": "ARTICLE 13 DDHC 1789",
+        "titre": "Le verrou constitutionnel de l'égalité fiscale",
+        "chiffre_cle": "Décision 99-422 DC",
+        "corps_texte": "La Constitution impose une contribution proportionnée aux facultés de chaque citoyen. Selon le Conseil constitutionnel, exonérer des contribuables sur le seul critère de l'âge sans corrélation avec le revenu présente un risque direct de censure.",
+        "citation_exacte": "elle doit être également répartie entre tous les citoyens, en raison de leurs facultés.",
+        "source_exacte": "Article 13 de la Déclaration des Droits de l'Homme et du Citoyen de 1789"
+      },
+      {
+        "numero": 5,
+        "surtitre": "DONNÉES SALARIALES INSEE",
+        "titre": "Rémunération plancher et profil d'insertion",
+        "chiffre_cle": "1 426,30 €",
+        "corps_texte": "Le SMIC net mensuel s'établit à 1 426,30 euros pour 35 heures de travail, niveau de rémunération qui concerne 3,1 millions de salariés du secteur privé. L'insertion professionnelle est également marquée par plus de 850 000 contrats d'apprentissage annuels.",
+        "citation_exacte": "Environ 3,1 millions de salariés du secteur privé non agricole (soit ~17,3 % des salariés).",
+        "source_exacte": "Insee / Ministère du Travail"
+      }
+    ]
+  },
+  "story": {
+    "date_label": "MERCREDI",
+    "badge": "CHIFFRE DU JOUR",
+    "chiffre_geant": "62 %",
+    "unite_ou_complement": "des foyers fiscaux de moins de 30 ans",
+    "question_centrale": "Une baisse d'impôt sur le revenu cible-t-elle la précarité des jeunes ?",
+    "decryptage": "Actuellement, 62 % des jeunes foyers fiscaux sont déjà non imposables en France. Une exonération ciblée sur l'âge bénéficierait à plus de 80 % aux 30 % des jeunes les plus aisés.",
+    "source_officielle": "DGFiP / Direction Générale du Trésor"
+  }
+}

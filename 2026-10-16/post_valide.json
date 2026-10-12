@@ -1,0 +1,62 @@
+{
+  "theme": "Le Crash-Test Réel : Lucas, Inès et Maxime face aux réformes",
+  "carrousel": {
+    "titre_global": "Le Crash-Test Réel : Lucas, Inès et Maxime face aux réformes",
+    "slides": [
+      {
+        "numero": 1,
+        "surtitre": "LE CRASH-TEST",
+        "titre": "Trois profils réels face aux programmes politiques",
+        "chiffre_cle": "3 Profils",
+        "corps_texte": "Pour comprendre l'effet concret des mesures, quittons la théorie et appliquons chaque programme aux bulletins de paie de trois jeunes actifs français.",
+        "citation_exacte": "La réalité des chiffres sur le compte en banque à la fin du mois.",
+        "source_exacte": "L'Exégèse - Crash Test"
+      },
+      {
+        "numero": 2,
+        "surtitre": "CAS PRATIQUE 1 : LUCAS",
+        "titre": "Lucas (23 ans), ouvrier au SMIC (1 426 € net)",
+        "chiffre_cle": "+0 € vs +175 €",
+        "corps_texte": "Avec le RN, Lucas gagne 0 euro d'impôt (il est déjà non imposable). Avec le NFP, il gagne 175 euros grâce à la hausse du SMIC à 1 600 euros. Avec le centre et LR, il conserve sa prime d'activité et ses heures sup défiscalisées.",
+        "citation_exacte": "Lucas ne paye déjà aucun impôt sur le revenu.",
+        "source_exacte": "Simulation barème fiscal 2024"
+      },
+      {
+        "numero": 3,
+        "surtitre": "CAS PRATIQUE 2 : INÈS",
+        "titre": "Inès (26 ans), infirmière ou professeur (2 100 € net)",
+        "chiffre_cle": "+950 € / an",
+        "corps_texte": "Avec le RN, Inès économise environ 950 euros d'impôt par an, soit un quasi 13e mois. Avec la gauche, son salaire dépasse le seuil d'allocation mais son point d'indice de fonctionnaire est revalorisé.",
+        "citation_exacte": "Un gain financier net d'environ 950 euros par an pour une jeune infirmière.",
+        "source_exacte": "Barème officiel DGFiP"
+      },
+      {
+        "numero": 4,
+        "surtitre": "CAS PRATIQUE 3 : MAXIME",
+        "titre": "Maxime (28 ans), ingénieur ou cadre (4 500 € net)",
+        "chiffre_cle": "+6 500 € / an",
+        "corps_texte": "Avec le RN, Maxime gagne plus de 6 500 euros net par an grâce à l'exonération totale. Avec la gauche, il ne touche rien et paierait davantage d'impôt dans les tranches supérieures du barème progressif.",
+        "citation_exacte": "Un gain financier massif concentré sur les plus hauts salaires.",
+        "source_exacte": "Simulation fiscale L'Exégèse"
+      },
+      {
+        "numero": 5,
+        "surtitre": "LE BILAN DES CHIFFRES",
+        "titre": "Qui est réellement aidé ?",
+        "chiffre_cle": "Bilan",
+        "corps_texte": "L'exonération fiscale concentre ses gains sur les 30 % des jeunes les plus aisés. L'allocation de la gauche bénéficie aux plus modestes mais au prix d'un coût budgétaire de 15 milliards d'euros.",
+        "citation_exacte": "Retrouvez l'épisode complet sur Spotify et Apple Podcasts.",
+        "source_exacte": "L'Exégèse"
+      }
+    ]
+  },
+  "story": {
+    "date_label": "VENDREDI",
+    "badge": "LE CAS PRATIQUE",
+    "chiffre_geant": "62 %",
+    "unite_ou_complement": "des moins de 30 ans",
+    "question_centrale": "Pourquoi l'ouvrier au SMIC gagne 0 € et le cadre 6 500 € ?",
+    "decryptage": "62 % des jeunes ne gagnent pas assez pour payer l'impôt sur le revenu. Une exonération sans condition de revenus ne bénéficie donc pas à l'ouvrier au SMIC, mais offre 6 500 € d'économie annuelle au cadre de 28 ans.",
+    "source_officielle": "DGFiP & Insee Revenus et Patrimoine"
+  }
+}

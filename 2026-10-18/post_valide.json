@@ -1,0 +1,62 @@
+{
+  "theme": "L'Arbitrage Citoyen : La confrontation totale de l'Échiquier",
+  "carrousel": {
+    "titre_global": "L'Arbitrage Citoyen : La confrontation totale de l'Échiquier",
+    "slides": [
+      {
+        "numero": 1,
+        "surtitre": "L'ARBITRAGE DU CITOYEN",
+        "titre": "L'impôt est-il un contrat d'âge ou de solidarité ?",
+        "chiffre_cle": "Votre Choix",
+        "corps_texte": "Au terme de cette semaine d'analyse de l'Épisode 1, la question dépasse les calculs électoraux : quel modèle républicain voulons-nous pour notre jeunesse ?",
+        "citation_exacte": "La démocratie commence lorsque le citoyen dispose des faits exacts.",
+        "source_exacte": "L'Exégèse - Éditorial"
+      },
+      {
+        "numero": 2,
+        "surtitre": "TROIS MODÈLES EN PRÉSENCE",
+        "titre": "Trois visions irréconciliables résumées",
+        "chiffre_cle": "3 Voies",
+        "corps_texte": "La droite nationale parie sur le choc fiscal pour récompenser le mérite. La gauche parie sur le plancher d'autonomie pour éradiquer la précarité. Le centre parie sur le travail en entreprise et l'apprentissage.",
+        "citation_exacte": "Chacun a sa cohérence, chacun a ses failles constitutionnelles ou budgétaires.",
+        "source_exacte": "Épisode 1 L'Exégèse"
+      },
+      {
+        "numero": 3,
+        "surtitre": "CE QUE DISENT LES SOURCES",
+        "titre": "Rappel des données intangibles",
+        "chiffre_cle": "Données",
+        "corps_texte": "62 % des jeunes ne paient pas d'impôt (Insee). L'exonération totale coûte 4,5 milliards d'euros (Trésor). L'allocation universelle coûte 15 milliards d'euros (IPP). L'article 13 de la DDHC protège l'égalité devant l'impôt.",
+        "citation_exacte": "Des faits sourcés, vérifiés à la source primaire mot pour mot.",
+        "source_exacte": "Insee, Trésor, IPP, Conseil constitutionnel"
+      },
+      {
+        "numero": 4,
+        "surtitre": "DANS L'ISOLOIR",
+        "titre": "La souveraineté du vote républicain",
+        "chiffre_cle": "Vote",
+        "corps_texte": "Aucun parti politique ne détient le monopole de la vérité. C'est à vous, électeurs et citoyens, de décider quelle priorité doit guider les cinq prochaines années de la France.",
+        "citation_exacte": "Le pouvoir de trancher appartient exclusivement aux citoyens.",
+        "source_exacte": "L'Exégèse"
+      },
+      {
+        "numero": 5,
+        "surtitre": "PROCHAIN ÉPISODE",
+        "titre": "Dimanche prochain : Épisode 2",
+        "chiffre_cle": "Épisode 02",
+        "corps_texte": "Rendez-vous la semaine prochaine pour l'Épisode 2 : Le SMIC à 1 600 euros, la désocialisation des salaires et le décryptage total de votre fiche de paie.",
+        "citation_exacte": "Disponible sur Spotify, Apple Podcasts, Deezer et Podcast Addict.",
+        "source_exacte": "L'Exégèse Podcast"
+      }
+    ]
+  },
+  "story": {
+    "date_label": "DIMANCHE",
+    "badge": "LA SYNTHÈSE DU CITOYEN",
+    "chiffre_geant": "Votre Choix",
+    "unite_ou_complement": "dans l'isoloir républicain",
+    "question_centrale": "Quel modèle républicain pour la jeunesse ?",
+    "decryptage": "L'épisode 01 complet de L'Exégèse est disponible sur toutes les plateformes de podcast. Retrouvez l'intégralité des sources et des chiffrages pour vous forger un avis libre.",
+    "source_officielle": "L'Exégèse • Disponible sur Spotify et Apple Podcasts"
+  }
+}

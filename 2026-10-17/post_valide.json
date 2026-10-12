@@ -1,0 +1,62 @@
+{
+  "theme": "Le Regard International : L'expérience polonaise du zéro impôt",
+  "carrousel": {
+    "titre_global": "Le Regard International : L'expérience polonaise du zéro impôt",
+    "slides": [
+      {
+        "numero": 1,
+        "surtitre": "EXPÉRIENCE EUROPÉENNE",
+        "titre": "Le modèle polonais : Bez PIT dla młodych",
+        "chiffre_cle": "2019",
+        "corps_texte": "En août 2019, la Pologne est devenue le premier pays de l'Union européenne à supprimer totalement l'impôt sur le revenu pour les salariés de moins de 26 ans. Quel est le bilan après 5 ans d'application ?",
+        "citation_exacte": "Suppression intégrale de l'impôt sur le revenu jusqu'au 26e anniversaire.",
+        "source_exacte": "Loi fiscale polonaise du 1er août 2019 (MF GOV.PL)"
+      },
+      {
+        "numero": 2,
+        "surtitre": "CONDITIONS POLONAISES",
+        "titre": "Un plafond strict de 85 528 zlotys",
+        "chiffre_cle": "~20 000 €",
+        "corps_texte": "Contrairement à la proposition française du RN, la Pologne a instauré un plafond de revenus annuel (~20 000 €) pour exclure les très hauts salaires et limiter le coût pour le Trésor public.",
+        "citation_exacte": "Exonération plafonnée au seuil de la première tranche du barème.",
+        "source_exacte": "Ministère des Finances de Pologne"
+      },
+      {
+        "numero": 3,
+        "surtitre": "EFFET SUR L'EXIL",
+        "titre": "L'exode des cerveaux a-t-il été stoppé ?",
+        "chiffre_cle": "Mitigé",
+        "corps_texte": "Les études de l'OCDE et de l'Université de Varsovie montrent un impact positif sur le taux d'emploi des étudiants, mais aucun effet significatif sur le ralentissement de l'émigration des ingénieurs et médecins vers l'Allemagne ou le Royaume-Uni.",
+        "citation_exacte": "Le différentiel de salaire brut reste le premier facteur d'émigration, loin devant l'impôt.",
+        "source_exacte": "Rapport OCDE & Université de Varsovie"
+      },
+      {
+        "numero": 4,
+        "surtitre": "EFFET DE SEUIL BRUTAL",
+        "titre": "Le couperet du 26e anniversaire",
+        "chiffre_cle": "-12 %",
+        "corps_texte": "Le principal effet pervers constaté en Pologne est le choc du 26e anniversaire : du jour au lendemain, le jeune actif voit son salaire net chuter de 12 à 15 % sans aucune augmentation de sa rémunération brute.",
+        "citation_exacte": "Un effet falaise très mal vécu par les jeunes salariés entrant dans le droit commun.",
+        "source_exacte": "Chambre de Commerce polonaise"
+      },
+      {
+        "numero": 5,
+        "surtitre": "ENSEIGNEMENT POUR LA FRANCE",
+        "titre": "La leçon pour le débat français",
+        "chiffre_cle": "Bilan",
+        "corps_texte": "Le modèle polonais démontre qu'une politique d'attractivité jeune ne peut reposer uniquement sur la fiscalité sans traiter la question des salaires bruts et du coût du logement.",
+        "citation_exacte": "Retrouvez l'analyse internationale complète dans L'Exégèse.",
+        "source_exacte": "L'Exégèse Internationale"
+      }
+    ]
+  },
+  "story": {
+    "date_label": "SAMEDI",
+    "badge": "LE REGARD INTERNATIONAL",
+    "chiffre_geant": "26 Ans",
+    "unite_ou_complement": "en Pologne depuis 2019",
+    "question_centrale": "Le zéro impôt a-t-il marché en Pologne ?",
+    "decryptage": "La Pologne a instauré le zéro impôt pour les moins de 26 ans avec un plafond à 20 000 €. Bilan : l'emploi des jeunes a progressé, mais la mesure n'a pas arrêté l'émigration des médecins et ingénieurs vers l'Allemagne.",
+    "source_officielle": "Ministère des Finances de Pologne & OCDE"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "theme": "Duel de Doctrines : Mérite individuel ou Plancher social ?",
+  "carrousel": {
+    "titre_global": "Duel de Doctrines : Mérite individuel ou Plancher social ?",
+    "slides": [
+      {
+        "numero": 1,
+        "surtitre": "DUEL DE DOCTRINES",
+        "titre": "Deux philosophies de la République irréconciliables",
+        "chiffre_cle": "2 Visions",
+        "corps_texte": "Le débat sur la jeunesse ne porte pas sur un détail technique : il oppose deux conceptions de l'État. D'un côté, récompenser l'effort individuel par la fiscalité. De l'autre, éradiquer la pauvreté par l'allocation universelle.",
+        "citation_exacte": "L'arbitrage démocratique engage notre modèle républicain de justice fiscale.",
+        "source_exacte": "L'Exégèse"
+      },
+      {
+        "numero": 2,
+        "surtitre": "DROITE ET RN",
+        "titre": "La doctrine de l'incitation et de l'effort",
+        "chiffre_cle": "Attractivité",
+        "corps_texte": "Pour la droite souverainiste et républicaine, l'exil des jeunes diplômés (médecins, ingénieurs) est causé par l'étouffement fiscal dès les premières années. Baisser l'impôt permettrait d'encourager l'épargne et l'investissement.",
+        "citation_exacte": "Permettre aux jeunes actifs de conserver le fruit de leur travail.",
+        "source_exacte": "Programme officiel RN & Reconquête"
+      },
+      {
+        "numero": 3,
+        "surtitre": "GAUCHE ET NFP",
+        "titre": "La doctrine de la garantie d'autonomie universelle",
+        "chiffre_cle": "1 159 €",
+        "corps_texte": "Pour la gauche, la priorité absolue est d'éradiquer la précarité des 18-25 ans exclus du RSA. La promesse centrale est de verser une allocation universelle au seuil de pauvreté pour financer les études et la formation.",
+        "citation_exacte": "Créer une garantie d'autonomie financière pour tous les jeunes dès 18 ans.",
+        "source_exacte": "Programme officiel NFP 2024"
+      },
+      {
+        "numero": 4,
+        "surtitre": "BLOC CENTRAL",
+        "titre": "La doctrine de l'émancipation par l'entreprise",
+        "chiffre_cle": "850 000",
+        "corps_texte": "Pour la majorité présidentielle, l'État ne doit distribuer ni chèque sans condition ni exonération générale non ciblée. La solution repose sur l'apprentissage et le Contrat d'Engagement Jeune (535 €/mois avec contrepartie de formation).",
+        "citation_exacte": "L'émancipation passe par le travail et l'insertion en entreprise.",
+        "source_exacte": "Programme Ensemble / Renaissance"
+      },
+      {
+        "numero": 5,
+        "surtitre": "SYNTHÈSE DU CHOIX",
+        "titre": "Le choix du modèle républicain",
+        "chiffre_cle": "Isoloir",
+        "corps_texte": "Chaque projet présente une cohérence politique mais aussi des limites budgétaires ou constitutionnelles. Dans 6 mois, l'arbitrage final appartiendra aux citoyens.",
+        "citation_exacte": "Écoutez le décryptage complet dans l'Épisode 1 de L'Exégèse.",
+        "source_exacte": "L'Exégèse Politique"
+      }
+    ]
+  },
+  "story": {
+    "date_label": "JEUDI",
+    "badge": "LE DUEL DE DOCTRINES",
+    "chiffre_geant": "1 159 €",
+    "unite_ou_complement": "vs Zéro Impôt",
+    "question_centrale": "Faut-il récompenser le travail qualifié ou garantir l'autonomie financière ?",
+    "decryptage": "Pour la droite, l'impôt zéro retient les jeunes diplômés tentés par l'exil. Pour la gauche, l'allocation universelle dès 18 ans élimine les files d'attente à l'aide alimentaire étudiante.",
+    "source_officielle": "Programmes officiels RN & NFP"
+  }
+}

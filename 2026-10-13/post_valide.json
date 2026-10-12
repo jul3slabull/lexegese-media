@@ -1,0 +1,62 @@
+{
+  "theme": "L'Épreuve des Comptes : Combien coûte le zéro impôt ?",
+  "carrousel": {
+    "titre_global": "L'Épreuve des Comptes : Combien coûte le zéro impôt ?",
+    "slides": [
+      {
+        "numero": 1,
+        "surtitre": "ÉVALUATION BUDGÉTAIRE",
+        "titre": "Combien coûterait l'exonération des moins de 30 ans ?",
+        "chiffre_cle": "4,5 Md€",
+        "corps_texte": "Chaque promesse a un coût direct pour les finances publiques. Selon les chiffrages concordants du Trésor et de l'Institut Montaigne, supprimer l'impôt sur le revenu et sur les sociétés des jeunes coûterait 4,5 milliards d'euros par an.",
+        "citation_exacte": "Un manque à gagner annuel d'environ 4,5 à 5,2 milliards d'euros pour les caisses de l'État.",
+        "source_exacte": "Direction Générale du Trésor & Institut Montaigne"
+      },
+      {
+        "numero": 2,
+        "surtitre": "CHIFFRAGE TRÉSOR",
+        "titre": "L'impôt sur le revenu des salariés seul",
+        "chiffre_cle": "2,5 à 3,5 Md€",
+        "corps_texte": "Si l'on isole uniquement l'impôt sur le revenu des salariés, la Direction Générale du Trésor évalue la perte de recettes entre 2,5 et 3,5 milliards d'euros par an. Soit l'équivalent de la moitié du budget de la Justice.",
+        "citation_exacte": "Le coût de l'impôt sur le revenu seul se situe entre 2,5 et 3,5 milliards d'euros.",
+        "source_exacte": "Direction Générale du Trésor"
+      },
+      {
+        "numero": 3,
+        "surtitre": "DONNÉE OFFICIELLE INSEE",
+        "titre": "62 % des jeunes ne paient déjà aucun impôt",
+        "chiffre_cle": "62 %",
+        "corps_texte": "En France, 6 jeunes de moins de 30 ans sur 10 ont des revenus sous le seuil d'imposition en raison du niveau du SMIC et des décotes. Pour cette majorité, l'exonération rapporte exactement 0 euro.",
+        "citation_exacte": "62 % des foyers fiscaux de moins de 30 ans sont non imposables.",
+        "source_exacte": "DGFiP, Statistiques fiscales & Insee"
+      },
+      {
+        "numero": 4,
+        "surtitre": "ANALYSE PAR DÉCILES",
+        "titre": "Une économie concentrée sur les cadres et ingénieurs",
+        "chiffre_cle": "80 %",
+        "corps_texte": "Les 30 % des jeunes les plus diplômés et les mieux rémunérés concentrent plus de 80 % du gain budgétaire total de la mesure. Un cadre à 4 500 € net gagne 6 500 € par an, un ouvrier au SMIC gagne 0 €.",
+        "citation_exacte": "Les 30 % des jeunes aux revenus les plus élevés captent l'essentiel du gain.",
+        "source_exacte": "Institut Montaigne & Commission des finances du Sénat"
+      },
+      {
+        "numero": 5,
+        "surtitre": "ARBITRAGE DU FINANCEMENT",
+        "titre": "Comment combler le déficit créé ?",
+        "chiffre_cle": "3 Options",
+        "corps_texte": "Trois options divisent les partis : combler la perte par la dette publique, couper dans les dépenses publiques de l'État, ou compenser par la baisse des allocations d'insertion.",
+        "citation_exacte": "Chaque allègement fiscal implique un arbitrage direct sur la dépense publique.",
+        "source_exacte": "L'Exégèse - Revue Budgétaire"
+      }
+    ]
+  },
+  "story": {
+    "date_label": "MARDI",
+    "badge": "L'ÉPREUVE DES COMPTES",
+    "chiffre_geant": "4,5 Md€",
+    "unite_ou_complement": "par an pour l'État",
+    "question_centrale": "Combien coûterait réellement le zéro impôt pour les moins de 30 ans ?",
+    "decryptage": "C'est l'évaluation du Trésor et de l'Institut Montaigne si l'on exonère l'impôt sur le revenu et les sociétés. 80 % de ce gain financier serait capté par les 30 % des jeunes les plus aisés.",
+    "source_officielle": "Direction Générale du Trésor & Institut Montaigne"
+  }
+}
